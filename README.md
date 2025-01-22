@@ -47,7 +47,7 @@ The goal is to see if slow diffusive feedback can help shape neural networks in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neural-feedback-simulation.git
+   git clone https://github.com/patrik-svensson/neural-feedback-simulation.git
    cd neural-feedback-simulation
    ```
 2. Install required dependencies:
