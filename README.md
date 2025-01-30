@@ -8,7 +8,7 @@ This project dives into how slow diffusive feedback (think of it as a steady str
 
 This is an old project that I did around 2020 during COVID-19.
 
-[Video of the simulation]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view](https://drive.google.com/file/d/1E-0OKZkcOjfbWAZLLxf-PJ1_eS7Y_e8a/view?usp=share_link))
+[Video of the simulation](https://drive.google.com/file/d/1E-0OKZkcOjfbWAZLLxf-PJ1_eS7Y_e8a/view?usp=share_link)
 
 ## 🎯 Objectives
 
